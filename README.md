@@ -1,4 +1,4 @@
-## Gerson Miranda
+## Gerson Gabriel Anton Miranda
 
 ### 🤖 Linguagens e Tecnologias
 
