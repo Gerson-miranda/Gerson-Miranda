@@ -1,7 +1,8 @@
 ## Gerson Gabriel Anton Miranda
 Me chamo Gerson Gabriel Anton Miranda , tenho 19 anos e sou natural de Salvador (BA) . Concluí o ensino médio na Escola Estadudal Assis chateaubriand. Atualmente, estou fazendo  curso técnico em desenvolvimento de sistema pelo senai (Dendezeiro ) Bahia .
 ---
-https://www.linkedin.com/jobs/search?keywords=Programador%2BJ%C3%BAnior&location=Salvador%2C%2BBahia%2C%2BBrasil&geoId=104263468&trk=public_jobs_jobs-search-bar_search-submit&currentJobId=4057574796&position=4&pageNum=0
+https://br.linkedin.com/jobs/view/analista-de-desenvolvimento-de-sistemas-j%C3%BAnior-at-petrobahia-s-a-4142919664?position=1&pageNum=0&refId=dleMWw12SDhwWUZhhb0HeQ%3D%3D&trackingId=nYVMCqhxQ8o1MIszI5oegg%3D%3D
+https://br.linkedin.com/jobs/view/estagi%C3%A1rio-4057574796?position=4&pageNum=0&refId=dleMWw12SDhwWUZhhb0HeQ%3D%3D&trackingId=wGUCiyjpvekW7TPJmqgAGg%3D%3D&trk=public_jobs_jserp-result_search-card
 ---
 ### 🤖 Linguagens e Tecnologias
 
