@@ -1,4 +1,4 @@
-## Gerson Gabriel Anton Miranda
+## Gerson Gabriel
 Me chamo Gerson Gabriel Anton Miranda , tenho 19 anos e sou natural de Salvador (BA) . Concluí o ensino médio na Escola Estadudal Assis chateaubriand. Atualmente, estou fazendo  curso técnico em desenvolvimento de sistema pelo senai (Dendezeiro ) Bahia .
 ---
 ### 🤖 Linguagens e Tecnologias
