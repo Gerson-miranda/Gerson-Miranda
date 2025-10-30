@@ -53,14 +53,14 @@ Me chamo Gerson Gabriel Anton Miranda , tenho 19 anos e sou natural de Salvador 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" 
 />
 
-<img
+<!-- <img
     align="left"
     alt="Animação SVG"
     title="Animação"
     width="30px"
     style="padding-right: 15px; animation: spin 3s linear infinite;"
     src="https://camo.githubusercontent.com/20b33b0b25d74051a9f13690b5b6fa39c0365cf36632aad937b073c3b6c87a68/68747470733a2f2f74656368737461636b2d67656e657261746f722e76657263656c2e6170702f6177732d69636f6e2e737667"
-/>
+/> -->
 
 <img 
     align="left" 
