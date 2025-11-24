@@ -12,12 +12,13 @@
 ## 👨‍💻 Sobre Mim
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=a855f7&size=22&center=true&vCenter=true&width=900&pause=1800&repeat=true&lines=🇧🇷+Me+chamo+Gerson+Gabriel,+tenho+19+anos+e+sou+de+Salvador-BA.;🇧🇷+Curso+o+3º+semestre+de+Desenvolvimento+de+Sistemas+no+SENAI.;🇧🇷+Sei+Java+e+estudo+React+e+Spring+Boot.;🇧🇷+Meu+objetivo+é+entrar+na+área+de+tecnologia.;🇺🇸+My+name+is+Gerson+Gabriel,+I+am+19+from+Salvador-BA.;🇺🇸+I+study+Systems+Development+at+SENAI.;🇺🇸+I+know+Java+and+am+learning+React+and+Spring+Boot.;🇺🇸+My+goal+is+to+enter+the+tech+industry.;🇪🇸+Me+llamo+Gerson+Gabriel,+tengo+19+y+soy+de+Salvador-BA.;🇪🇸+Estudio+Desarrollo+de+Sistemas+en+SENAI.;🇪🇸+Sé+Java+y+estoy+aprendiendo+React+y+Spring+Boot.;🇪🇸+Mi+objetivo+es+entrar+en+el+área+tecnológica.;🇮🇹+Mi+chiamo+Gerson+Gabriel,+ho+19+anni+e+sono+di+Salvador-BA.;🇮🇹+Studio+Sviluppo+di+Sistemi+al+SENAI.;🇮🇹+Conosco+Java+e+studio+React+e+Spring+Boot.;🇮🇹+Il+mio+obiettivo+è+entrare+nel+settore+tech.)
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=a855f7&size=22&center=true&vCenter=true&width=900&pause=1800&repeat=true&lines=Me+chamo+Gerson+Gabriel,+tenho+19+anos+e+sou+de+Salvador-BA.;Curso+o+3º+semestre+de+Desenvolvimento+de+Sistemas+no+SENAI.;Sei+Java+e+estudo+React+e+Spring+Boot.;Meu+objetivo+é+entrar+na+área+de+tecnologia.;My+name+is+Gerson+Gabriel,+I+am+19+from+Salvador-BA.;I+study+Systems+Development+at+SENAI.;I+know+Java+and+am+learning+React+and+Spring+Boot.;My+goal+is+to+enter+the+tech+industry.;Me+llamo+Gerson+Gabriel,+tengo+19+y+soy+de+Salvador-BA.;Estudio+Desarrollo+de+Sistemas+en+SENAI.;Sé+Java+y+estoy+aprendiendo+React+y+Spring+Boot.;Mi+objetivo+es+entrar+en+el+área+tecnológica.;Mi+chiamo+Gerson+Gabriel,+ho+19+anni+e+sono+di+Salvador-BA.;Studio+Sviluppo+di+Sistemi+al+SENAI.;Conosco+Java+e+studio+React+e+Spring+Boot.;Il+mio+obiettivo+è+entrare+nel+settore+tech.)
+
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=a855f7&size=26&center=true&vCenter=true&width=900&pause=1800&repeat=true&lines=🚀+Desenvolvedor+em+Formação;🚀+Developer+in+Training;🚀+Desarrollador+en+Formación;🚀+Sviluppatore+in+Formazione)
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=a855f7&size=26&center=true&vCenter=true&width=900&pause=1800&repeat=true&lines=💡+Apaixonado+por+Tecnologia;💡+Passionate+About+Technology;💡+Apasionado+por+la+Tecnología;💡+Appassionato+di+Tecnologia)
-
 </div>
 ---
 
